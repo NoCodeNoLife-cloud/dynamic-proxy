@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="JDK-dynamic-proxy" external.linked.project.path="$MODULE_DIR$/../../JDK-dynamic-proxy" external.root.project.path="$MODULE_DIR$/../../JDK-dynamic-proxy" external.system.id="GRADLE" external.system.module.group="org.code" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_21" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../JDK-dynamic-proxy">
+      <excludeFolder url="file://$MODULE_DIR$/../../JDK-dynamic-proxy/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../JDK-dynamic-proxy/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../JDK-dynamic-proxy/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
